@@ -1,1 +1,2 @@
 # Basic-Banking-App
+This is a Basic Banking System website developed with HTML, CSS, and JavaScript enables seamless money transfers and transaction history management . HTML structures the content, CSS provides a sleek, responsive design, and JavaScript adds interactive elements. This project showcases your ability to create functional and user-friendly web applications, demonstrating both your technical skills and attention to detail.
